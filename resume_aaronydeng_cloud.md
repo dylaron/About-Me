@@ -10,7 +10,7 @@ P.Eng, Ph.D
 - AWS **Certified Solution Architect Associate**, and **Cloud Practitioner**
 - Agile/Scrum and traditional waterfall project management frameworks
 - A team-player and eager to learn all the time
-- Python (5 years), C/C++ (3 y), Docker (3 y), AWS (3 y), Git (3 y), JS/PHP/HTML (8 y)
+- Python (5 years), C/C++ (3y), Docker (3y), AWS (3y), Git (3y), JS/PHP/HTML (8y), OpenCV (3y)
 
 ## EXPERIENCE
 
@@ -42,7 +42,7 @@ such device is
 Collaborating with industrial designers and contractor manufactures, we successfully delivered a
 solution that significantly improves the customer’s workflow and output quality.
 
-- Assisted on developing a new product powered by Machine Learning / Imaging Segmentation.
+- Assisted on developing a new product powered by Machine Learning / Image Segmentation.
 
 2017-2019, Design Engineer - Automation
 
