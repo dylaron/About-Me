@@ -13,32 +13,37 @@ P.Eng, Ph.D
 - Python (5 years), C/C++ (3 y), Docker (3 y), AWS (3 y), Git (3 y), JS/PHP/HTML (8 y)
 
 ## EXPERIENCE
+
 ### Keirton Inc
 Surrey, BC, Canada
 
 2019-present, Chief Design Engineer - Cloud Computing and IoT
+
 - Successfully architected, developed and deployed a cloud platform that enables data
 communication, diagnosis and firmware updates for a range of our machinery products, using a
 micro-service approach, primarily based on AWS infrastructure. Its main components include
-- An ETL Pipelines that collects data from a few different products in the field, and save into
+  - An ETL Pipelines that collects data from a few different products in the field, and save into
 databases (MySQL and MongoDB). Different protocols are used (OPC-UA, REST/HTTP API,
 MQTT) for communication with different controller types (PLCs, Linux PC, and
 microcontrollers).
-- Big data analysis on the back end. (Python, Pandas)
-- A web portal to present aggregated data to customers as dashboards. (PHP, JavaScript)
-- APIs to dispatch updates of firmware and machine learning model (Python, Node.js)
+  - Big data analysis on the back end. (Python, Pandas)
+  - A web portal to present aggregated data to customers as dashboards. (PHP, JavaScript)
+  - APIs to dispatch updates of firmware and machine learning model (Python, Node.js)
+
 This project had became a crucial part of the company’s digital transformation roadmap. It has
 provided both us and our customers plenty great insights of the operation with our products.
 
 - Developed a ‘3D scanner’ to measure the profile of plant material loaded on a conveyor belt, and a
 control algorithm on the downstream PLC controller to react to the measurement. The purpose of
 such device is
-- Ensuring a constant volume flow rate from the conveyor regardless of loading consistency
-- Tracking the volume value and provided to the customer on the cloud dashboard.
+  - Ensuring a constant volume flow rate from the conveyor regardless of loading consistency
+  - Tracking the volume value and provided to the customer on the cloud dashboard.
+
 Collaborating with industrial designers and contractor manufactures, we successfully delivered a
 solution that significantly improves the customer’s workflow and output quality.
 
 2017-2019, Design Engineer - Automation
+
 - Implemented an automation control into our latest and largest industrial machine: TwisterTrimmer
 T-Zero. Multiple VFD/motors, actuators and sensors are coordinated with a PLC with user input
 through a touchscreen HMI device.
@@ -77,7 +82,6 @@ Steering (EPAS) application
 
 
 <div style="page-break-after: always"></div>
-
 ## EDUCATION
 
 ### University of Maryland, College Park
@@ -98,3 +102,7 @@ Thesis: 2-D modeling and simulation of human knee in saggital plane
 1997-2001, Bachelor of Science in Automotive Engineering
 
 Thesis: The simulation and analysis of drive-train control strategies of hybrid electric vehicle
+
+## HOBBIES & INTERESTS
+3D Design | Tinkering with microelectronics (Thingiverse & GitHub profiles listed on [linktr.ee/dylaron](https://linktr.ee/dylaron))
+Guitar | Taekwondo | Stand-Up Paddle-boarding
