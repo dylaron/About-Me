@@ -42,6 +42,8 @@ such device is
 Collaborating with industrial designers and contractor manufactures, we successfully delivered a
 solution that significantly improves the customer’s workflow and output quality.
 
+- Assisted on developing a new product powered by Machine Learning / Imaging Segmentation.
+
 2017-2019, Design Engineer - Automation
 
 - Implemented an automation control into our latest and largest industrial machine: TwisterTrimmer
