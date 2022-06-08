@@ -2,6 +2,7 @@
 P.Eng, Ph.D
 
 604-xxx-0958 | Surrey, BC, Canada | yuliangd@gmail.com | [linkedin.com/in/dylaron](https://linkedin.com/in/dylaron)
+
 ## SUMMARY
 - Multidisciplinary engineering background in mechanical and electrical products R&D
 - 10+ years in Mechanical Engineering, especially 3D design (SolidWorks, Siemens NX)
@@ -14,8 +15,9 @@ P.Eng, Ph.D
 
 ## EXPERIENCE
 
-### Keirton Inc
+### Keirton Inc (Twister Trimmer)
 Surrey, BC, Canada
+[www.keirton.com](https://www.keirton.com)
 
 2019-present, Chief Design Engineer - Cloud Computing and IoT
 
@@ -30,8 +32,7 @@ microcontrollers).
   - A web portal to present aggregated data to customers as dashboards. (PHP, JavaScript)
   - APIs to dispatch updates of firmware and machine learning model (Python, Node.js)
 
-This project had became a crucial part of the company’s digital transformation roadmap. It has
-provided both us and our customers plenty great insights of the operation with our products.
+This project had became a crucial part of the company’s digital transformation roadmap. It has provided both us and our customers plenty great insights of the operation with our products.
 
 - Developed a ‘3D scanner’ to measure the profile of plant material loaded on a conveyor belt, and a
 control algorithm on the downstream PLC controller to react to the measurement. The purpose of
