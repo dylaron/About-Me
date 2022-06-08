@@ -104,5 +104,8 @@ Thesis: 2-D modeling and simulation of human knee in saggital plane
 Thesis: The simulation and analysis of drive-train control strategies of hybrid electric vehicle
 
 ## HOBBIES & INTERESTS
-3D Design | Tinkering with microelectronics (Thingiverse & GitHub profiles listed on [linktr.ee/dylaron](https://linktr.ee/dylaron))
+3D Design & 3D-Printing | Tinkering with microelectronics
+
+(Thingiverse & GitHub profiles listed on [linktr.ee/dylaron](https://linktr.ee/dylaron))
+
 Guitar | Taekwondo | Stand-Up Paddle-boarding
