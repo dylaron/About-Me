@@ -13,7 +13,7 @@ geometry: "margin=1in"
 - AWS **Certified Solution Architect Associate**, and **Cloud Practitioner**
 - Agile/Scrum and traditional waterfall project management frameworks
 - A team-player and eager to learn all the time
-- **Python** (5 years), C/**C++** (3y), **Docker** (3y), **AWS** (3y), Git (3y), JS/PHP/HTML (8y), **OpenCV** (3y)
+- **Python** (5 years), C/**C++** (3y), **Docker** (3y), **AWS** (3y), Git (3y), JS/PHP/html (8y), **OpenCV** (3y)
 - Licensed Professional Engineer (**P.Eng**) with EGBC since 2013
 
 ## EXPERIENCE
@@ -33,9 +33,7 @@ microcontrollers).
   - A web portal to present aggregated data to customers as dashboards. (PHP, JavaScript)
   - APIs to dispatch updates of firmware and machine learning model (Python, Node.js)
 
-- Developed a ‘3D scanner’ to measure the profile of plant material loaded on a conveyor belt, and a
-control algorithm on the downstream PLC controller to react to the measurement. The purpose of
-such device is 1. to ensuring a constant volume flow rate from the conveyor regardless of loading consistency. 2. and to track the volume throughput for the customer on the cloud dashboard.  
+- Developed a ‘3D scanner’ to measure the profile of plant material loaded on a conveyor belt, and a control algorithm on the downstream PLC controller to react to the measurement. The purpose of such device is 1. to ensuring a constant volume flow rate from the conveyor regardless of loading consistency. 2. and to track the volume throughput for the customer on the cloud dashboard.  
 Collaborating with industrial designers and contractor manufactures, we successfully delivered a solution that significantly improves the customer’s workflow and output quality.
 
 - Assisted on developing a new product powered by Machine Learning / Image Segmentation.
@@ -54,7 +52,7 @@ T-Zero. Multiple VFD/motors, actuators and sensors are coordinated with a PLC wi
 ### Deere-Hitachi Specialty Products
 Langley, BC, Canada
 
-2014-2017, Design Engineer
+2014-2017, Design Engineer (Contract)
 
 - Full lifecycle involvement in development for the new generation of Deere G-series forestry swing machines and Hitachi dash-six Foresters. Participated through the entire process: initial design, prototypes, to the final production and continuous improvement.
 
