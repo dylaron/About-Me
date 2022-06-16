@@ -39,10 +39,9 @@ microcontrollers).
 
 2017-2019, Design Engineer - Automation
 
-- Implemented an automation control into our latest and largest industrial machine: TwisterTrimmer
-T-Zero. Multiple VFD/motors, actuators and sensors are coordinated with a PLC with user input through a touchscreen HMI device.
+- Implemented an automation control into our latest and largest industrial machine (TwisterTrimmer T-Zero). A touchscreen HMI and a PLC controller system is built to orchestrate the operating of multiple VFD/motors, actuators and sensors. My responsibilities included mechanical design, electrical design, and PLC/HMI programming.
 
-- eveloped an electronic product with wireless cloud connectivity. My main contributions were circuit design and microcontroller firmware programming (C++)
+- Developed an electronic product with wireless cloud connectivity. My main contributions were circuit design and microcontroller firmware programming (C++)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
