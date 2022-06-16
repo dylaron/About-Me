@@ -24,7 +24,7 @@ Surrey, BC, Canada
 
 2019-present, Chief Design Engineer - Cloud Computing and IoT
 
-- Successfully architected, developed and deployed a cloud platform that enables data communication, diagnosis and firmware updates for a range of our machinery products, using a micro-service approach, primarily based on AWS infrastructure. This project had became a crucial part of the company’s digital transformation roadmap. It has provided both us and our customers plenty great insights of the operation with our products. Its main components include
+- Successfully developed a unified cloud platform that digitally integrates a range of machinery products. For over 3 years since initial deployment, it has been providing valuable insights of how the TwisterTrimmer products were operating. This project had made it possible to introduce a new rental option into the business model. The customer do not have to make a large financial commitment upfront to purchase the equipment, instead they could be only paying for the hours of usage every month. That helped TwisterTrimmer reach into a larger customer base, and bring in a new consistent revenue stream. A micro-service approach is used in the architecture and the main components include
   - An ETL Pipelines that collects data from a few different products in the field, and save into
 databases (MySQL and MongoDB). Different protocols are used (OPC-UA, REST/HTTP API,
 MQTT) for communication with different controller types (PLCs, Linux PC, and
@@ -33,8 +33,7 @@ microcontrollers).
   - A web portal to present aggregated data to customers as dashboards. (PHP, JavaScript)
   - APIs to dispatch updates of firmware and machine learning model (Python, Node.js)
 
-- Developed a ‘3D scanner’ to measure the profile of plant material loaded on a conveyor belt, and a control algorithm on the downstream PLC controller to react to the measurement. The purpose of such device is 1. to ensuring a constant volume flow rate from the conveyor regardless of loading consistency. 2. and to track the volume throughput for the customer on the cloud dashboard.  
-Collaborating with industrial designers and contractor manufactures, we successfully delivered a solution that significantly improves the customer’s workflow and output quality.
+- Developed a ‘3D scanner’ using machine vision (OpenCV) techniques. It measures the profile of plant material loaded on a conveyor belt, and a PLC controller will adjust the conveyor speed accordingly based on an algorithm. This device ensures a consistent feed from the conveyor and therefore improves processing quality. Also, the device brings more telemetry data into the dashboard for the customer.
 
 - Assisted on developing a new product powered by Machine Learning / Image Segmentation.
 
@@ -95,6 +94,6 @@ Thesis: The simulation and analysis of drive-train control strategies of hybrid 
 ## HOBBIES & INTERESTS
 3D Design & 3D-Printing | Tinkering with microelectronics
 
-(Thingiverse & GitHub profiles listed on [linktr.ee/dylaron](https://linktr.ee/dylaron))
+(Thingiverse & GitHub profiles listed on [linktr.ee/dylaron](https://linktr.ee/dylaron)
 
 Guitar | Taekwondo | Stand-Up Paddle-boarding
